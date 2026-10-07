@@ -1,0 +1,23 @@
+# Python / Backend
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/data/*.db
+backend/data/*.sqlite3
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.cache/
+
+# Variáveis de Ambiente e Segredos
+.env
+*.env
+.env.local
+
+# IDEs e Sistema Operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
